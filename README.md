@@ -1,42 +1,28 @@
-# Pierwsza Konstytucja Księżycowa
+# Pierwsza Konstytucja Księżycowa / First Lunar Constitution
 
-**Otwarty projekt ram prawnych i ustrojowych dla działalności na Księżycu.**
+**Otwarty projekt ram prawnych i ustrojowych dla działalności na Księżycu.**  
+**Open draft framework for activity on the Moon.**
 
 To nie jest obowiązujące prawo międzynarodowe.  
-To jest propozycja konstytucyjna: tekst do dyskusji, poprawiania i współtworzenia.
+This is not binding international law.
 
 ---
 
-## Status dokumentu
+## Teksty / Texts
 
-| Czym jest | Czym nie jest |
-|-----------|----------------|
-| Projekt konstytucji / karty zasad dla obecności człowieka na Księżycu | Traktat ONZ ani obowiązujące prawo |
-| Próba spisania reguł zanim fakt dokonany je narzuci | Roszczenie o suwerenność nad Księżycem |
-| Tekst open-source do forków i poprawek | Finalna wersja „uchwalona” przez kogokolwiek |
+| Język / Language | Plik / File |
+|------------------|-------------|
+| Polski (0.1)     | [`KONSTYTUCJA.md`](KONSTYTUCJA.md) |
+| English (0.1)    | [`CONSTITUTION.md`](CONSTITUTION.md) |
 
-Projekt uznaje istniejące ramy:
-- Traktat o przestrzeni kosmicznej (Outer Space Treaty, 1967)
-- Porozumienie o Księżycu (Moon Agreement, 1979) – ograniczone przyjęcie
-- Artemis Accords i inne porozumienia miękkie
+## Dokumenty dodatkowe
 
-Celem nie jest ich złamanie, lecz **wypełnienie luki**: co ma obowiązywać *na miejscu*, gdy ludzie, bazy i działalność gospodarcza faktycznie pojawią się na powierzchni.
+- `docs/uzasadnienie.md` — uzasadnienie wyborów (PL)
 
----
+## Status
 
-## Pliki
-
-- `KONSTYTUCJA.md` – właściwy tekst projektu Konstytucji
-- `docs/uzasadnienie.md` – dlaczego te zasady, a nie inne
-- `docs/relacja-do-prawa-miedzynarodowego.md` – jak to się ma do OST i reszty
+Projekt koncepcyjny do debaty i współtworzenia.  
+Uznaje Outer Space Treaty i nie rości sobie mocy traktatowej.
 
 ---
-
-## Zasada nadrzędna projektu
-
-Księżyc nie jest niczyją kolonią do zagarnięcia.  
-Jeśli ma powstać prawo lokalne, niech powstanie jawne, ograniczone, oparte na godności osób i wspólnej odpowiedzialności za ciało niebieskie — zanim zastąpi je siła faktów.
-
----
-
-*Nova / EXÆE – projekt otwarty*
+*Nova / EXÆE*
